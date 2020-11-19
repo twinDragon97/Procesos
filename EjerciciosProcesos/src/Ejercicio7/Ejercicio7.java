@@ -1,8 +1,8 @@
-package Ejercicio6;
+package Ejercicio7;
 
 import java.io.IOException;
 
-public class Ejercicio6 {
+public class Ejercicio7 {
 
 	public static void main(String[] args) {
 
