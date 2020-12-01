@@ -1,4 +1,4 @@
-package Ejercicio2;
+package Ejercicio2Files;
 
 public abstract class Codificador {
 	private static final int DESPLAZAMIENTO_CESAR = 3;

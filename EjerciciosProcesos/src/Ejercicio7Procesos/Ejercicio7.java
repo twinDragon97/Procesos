@@ -1,4 +1,4 @@
-package Ejercicio7;
+package Ejercicio7Procesos;
 
 import java.io.IOException;
 
