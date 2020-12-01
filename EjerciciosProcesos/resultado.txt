@@ -1,0 +1,4 @@
+Archivos
+bin
+resultado.txt
+src
